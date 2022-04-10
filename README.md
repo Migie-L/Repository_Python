@@ -1,6 +1,6 @@
 # GitHubRepository_PYTHON
  My Portfolio:
 
- The footprint of learning Python. 
+ The footprints of learning Python. 
  
  print("Hello World")
